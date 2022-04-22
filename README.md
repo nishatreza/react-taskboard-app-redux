@@ -7,3 +7,7 @@ Taskboard app with drag and drop
 Note:
 
 # User can add, update, delete any item from a card and can drag and drop from one column card to another.
+
+Installation:
+
+# Install with npm install then it will work smoothly.
